@@ -1,0 +1,3 @@
+C:/Users/PC/Documents/GitHub/DCC012/DCC012-UFJF/Semana 01/build/CMakeFiles/OlaMundo.dir
+C:/Users/PC/Documents/GitHub/DCC012/DCC012-UFJF/Semana 01/build/CMakeFiles/edit_cache.dir
+C:/Users/PC/Documents/GitHub/DCC012/DCC012-UFJF/Semana 01/build/CMakeFiles/rebuild_cache.dir
